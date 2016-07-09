@@ -1,0 +1,34 @@
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoKhoangNgay.resources
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoNgay.resources
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoThangNam.resources
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+C:\Users\Tu Minh\Desktop\Backup\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.exe
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\bin\Debug\RestaurantManagerSystem.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.frmDangNhap.resources
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.frmMain.resources
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewHoaDon.resources
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoKhoangNgay.resources
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoNgay.resources
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.GUI.ViewThongKeTheoThangNam.resources
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.Properties.Resources.resources
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.csproj.GenerateResource.Cache
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\bin\Debug\BUS.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\bin\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\bin\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\bin\Debug\BUS.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\bin\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\RestaurantManagerSystem\bin\Debug\DAO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.exe
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\RestaurantManagerSystem\obj\Debug\RestaurantManagerSystem.pdb

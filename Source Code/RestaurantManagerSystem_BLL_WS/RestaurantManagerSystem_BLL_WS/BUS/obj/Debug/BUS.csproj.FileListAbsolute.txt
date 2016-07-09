@@ -1,0 +1,27 @@
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\BUS\bin\Debug\BUS.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\BUS\bin\Debug\BUS.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\BUS\bin\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\BUS\bin\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\BUS\bin\Debug\DAO.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\BUS\bin\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\BUS\obj\Debug\BUS.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\BUS\obj\Debug\BUS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\BUS\bin\Debug\BUS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\BUS\bin\Debug\BUS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\BUS\bin\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\BUS\bin\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\BUS\bin\Debug\DAO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\BUS\bin\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\BUS\obj\Debug\BUS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\BUS\obj\Debug\BUS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\BUS\bin\Debug\BUS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\BUS\bin\Debug\BUS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\BUS\bin\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\BUS\bin\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\BUS\bin\Debug\DAO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\BUS\bin\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\BUS\obj\Debug\BUS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\BUS\obj\Debug\BUS.pdb

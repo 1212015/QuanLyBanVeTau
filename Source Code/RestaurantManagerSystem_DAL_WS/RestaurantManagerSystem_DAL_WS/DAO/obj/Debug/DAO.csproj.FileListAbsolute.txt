@@ -1,0 +1,21 @@
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DAO\bin\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DAO\bin\Debug\DAO.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DAO\bin\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DAO\bin\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DAO\obj\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DAO\obj\Debug\DAO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DAO\bin\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DAO\bin\Debug\DAO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DAO\bin\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DAO\bin\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DAO\obj\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DAO\obj\Debug\DAO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\DAO\bin\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\DAO\bin\Debug\DAO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\DAO\bin\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\DAO\bin\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\DAO\obj\Debug\DAO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\DAO\obj\Debug\DAO.pdb

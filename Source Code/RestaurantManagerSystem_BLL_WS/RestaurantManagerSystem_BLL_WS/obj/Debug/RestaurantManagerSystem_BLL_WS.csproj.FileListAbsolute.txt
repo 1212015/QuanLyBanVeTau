@@ -1,0 +1,12 @@
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\bin\RestaurantManagerSystem_BLL_WS.dll.config
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\bin\RestaurantManagerSystem_BLL_WS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\bin\RestaurantManagerSystem_BLL_WS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\obj\Debug\RestaurantManagerSystem_BLL_WS.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\obj\Debug\RestaurantManagerSystem_BLL_WS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\obj\Debug\RestaurantManagerSystem_BLL_WS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\obj\Debug\RestaurantManagerSystem_BLL_WS.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\obj\Debug\RestaurantManagerSystem_BLL_WS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\bin\RestaurantManagerSystem_BLL_WS.dll.config
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\bin\RestaurantManagerSystem_BLL_WS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\bin\RestaurantManagerSystem_BLL_WS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_BLL_WS\RestaurantManagerSystem_BLL_WS\obj\Debug\RestaurantManagerSystem_BLL_WS.pdb

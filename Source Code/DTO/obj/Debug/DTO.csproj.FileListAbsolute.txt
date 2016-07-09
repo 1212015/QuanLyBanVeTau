@@ -1,0 +1,36 @@
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DTO\bin\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DTO\obj\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\SOURCE CODE_PTTKPM\DTO\obj\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DTO\bin\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DTO\bin\Debug\DTO.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DTO\obj\Debug\DTO.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\1212233-1212249\DTO\obj\Debug\DTO.pdb
+C:\Users\Nam Nguyen\Desktop\ĐỒ ÁN\Source Code\DTO\bin\Debug\DTO.dll
+C:\Users\Nam Nguyen\Desktop\ĐỒ ÁN\Source Code\DTO\bin\Debug\DTO.pdb
+C:\Users\Nam Nguyen\Desktop\ĐỒ ÁN\Source Code\DTO\bin\Debug\crystaldecisions.crystalreports.engine.dll
+C:\Users\Nam Nguyen\Desktop\ĐỒ ÁN\Source Code\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Nam Nguyen\Desktop\ĐỒ ÁN\Source Code\DTO\obj\Debug\DTO.dll
+C:\Users\Nam Nguyen\Desktop\ĐỒ ÁN\Source Code\DTO\obj\Debug\DTO.pdb
+E:\IT\IT3\HKI\PTTK PM\ĐỒ ÁN\Source Code\DTO\bin\Debug\DTO.dll
+E:\IT\IT3\HKI\PTTK PM\ĐỒ ÁN\Source Code\DTO\bin\Debug\DTO.pdb
+E:\IT\IT3\HKI\PTTK PM\ĐỒ ÁN\Source Code\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\IT\IT3\HKI\PTTK PM\ĐỒ ÁN\Source Code\DTO\obj\Debug\DTO.dll
+E:\IT\IT3\HKI\PTTK PM\ĐỒ ÁN\Source Code\DTO\obj\Debug\DTO.pdb
+E:\IT\IT3\HKII\HQT CDSL\Lan 4\Source Code\DTO\bin\Debug\DTO.dll
+E:\IT\IT3\HKII\HQT CDSL\Lan 4\Source Code\DTO\bin\Debug\DTO.pdb
+E:\IT\IT3\HKII\HQT CDSL\Lan 4\Source Code\DTO\obj\Debug\DTO.dll
+E:\IT\IT3\HKII\HQT CDSL\Lan 4\Source Code\DTO\obj\Debug\DTO.pdb
+E:\IT\IT3\HKII\HQT CDSL\Lan 4\Source Code\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Thu Thao\Desktop\Nam\Source Code\DTO\bin\Debug\DTO.dll
+C:\Users\Thu Thao\Desktop\Nam\Source Code\DTO\bin\Debug\DTO.pdb
+C:\Users\Thu Thao\Desktop\Nam\Source Code\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Thu Thao\Desktop\Nam\Source Code\DTO\obj\Debug\DTO.dll
+C:\Users\Thu Thao\Desktop\Nam\Source Code\DTO\obj\Debug\DTO.pdb
+E:\hoc tap\Nam III\Hoc ki II\HQTCSDL\DA cuoi ky\Loi123\Thao_hqt\Thao_hqt\Source Code\DTO\bin\Debug\DTO.dll
+E:\hoc tap\Nam III\Hoc ki II\HQTCSDL\DA cuoi ky\Loi123\Thao_hqt\Thao_hqt\Source Code\DTO\bin\Debug\DTO.pdb
+E:\hoc tap\Nam III\Hoc ki II\HQTCSDL\DA cuoi ky\Loi123\Thao_hqt\Thao_hqt\Source Code\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\hoc tap\Nam III\Hoc ki II\HQTCSDL\DA cuoi ky\Loi123\Thao_hqt\Thao_hqt\Source Code\DTO\obj\Debug\DTO.dll
+E:\hoc tap\Nam III\Hoc ki II\HQTCSDL\DA cuoi ky\Loi123\Thao_hqt\Thao_hqt\Source Code\DTO\obj\Debug\DTO.pdb

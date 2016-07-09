@@ -1,0 +1,12 @@
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\bin\RestaurantManagerSystem_DAL_WS.dll.config
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\bin\RestaurantManagerSystem_DAL_WS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\bin\RestaurantManagerSystem_DAL_WS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\obj\Debug\RestaurantManagerSystem_DAL_WS.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\obj\Debug\RestaurantManagerSystem_DAL_WS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\obj\Debug\RestaurantManagerSystem_DAL_WS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\bin\RestaurantManagerSystem_DAL_WS.dll.config
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\bin\RestaurantManagerSystem_DAL_WS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\bin\RestaurantManagerSystem_DAL_WS.pdb
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\obj\Debug\RestaurantManagerSystem_DAL_WS.csprojResolveAssemblyReference.cache
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\obj\Debug\RestaurantManagerSystem_DAL_WS.dll
+C:\Users\Tu Minh\Desktop\PTTKPM_DA\ĐỒ ÁN\Source Code\RestaurantManagerSystem_DAL_WS\RestaurantManagerSystem_DAL_WS\obj\Debug\RestaurantManagerSystem_DAL_WS.pdb
